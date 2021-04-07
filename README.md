@@ -12,7 +12,7 @@ apt update
 
 apt install docker-ce
 
-## Instalaciòn de docker en ubuntu 20.04
+## Instalación de docker en ubuntu 20.04
 
 sudo apt-get update
 
